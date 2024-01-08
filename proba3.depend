@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1704565535 source:c:\users\micha許desktop\proba3\proba3\bazadanych.cpp
+	"BazaDanych.h"
+	<fstream>
+	<iostream>
+
+1704565268 c:\users\micha許desktop\proba3\proba3\bazadanych.h
+	"Pojazd.h"
+	<vector>
+
+1704562432 c:\users\micha許desktop\proba3\proba3\pojazd.h
+	<string>
+
+1704563919 source:c:\users\micha許desktop\proba3\proba3\motor.cpp
+	"Motor.h"
+	<iostream>
+
+1704563919 c:\users\micha許desktop\proba3\proba3\motor.h
+	"Pojazd.h"
+
+1704564832 source:c:\users\micha許desktop\proba3\proba3\osobowy.cpp
+	"Osobowy.h"
+	<iostream>
+
+1704563985 c:\users\micha許desktop\proba3\proba3\osobowy.h
+	"Pojazd.h"
+
+1704562654 source:c:\users\micha許desktop\proba3\proba3\pojazd.cpp
+	"Pojazd.h"
+	<iostream>
+
+1704565268 source:c:\users\micha許desktop\proba3\proba3\main.cpp
+	"BazaDanych.h"
+	"Osobowy.h"
+	"Motor.h"
+	<iostream>
+
